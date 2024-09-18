@@ -1,2 +1,0 @@
-hello and namaste from file 2
-this a modified file 2
